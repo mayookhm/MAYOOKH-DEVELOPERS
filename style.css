@@ -1,0 +1,118 @@
+h1 {
+    color: rgb(0, 0, 0);
+   margin-left: 30px;
+   text-align: center;
+   font-family: fantasy;
+   background-color: rgb(255, 251, 0);
+}
+.def{
+    position: relative;
+    background: #0d2c40 url(icon-star.svg) no-repeat left bottom;
+    background-size: 101%;
+    float: right;
+    color: #ffffff;
+    font-size: 150%;
+    line-height: 1.25em;
+    width: 50%;
+    height: 20.019em;
+    margin: 0 0 0 0;
+    padding: 6em 0.5em 0 0.5em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+.lan{
+    font-size: 100%;
+  color: #ffffff;
+  width: 60%;
+  float: left;
+  background: #c879b2 url(icons-3-pack.svg);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: 101%;
+  height: 40em;
+  margin: 0;
+  padding: 16.3em 2em 10em 2em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.des{
+    position: absolute;
+    color: #721313;
+    background-color: rgb(65, 241, 11);
+    z-index: 3;
+    font-size: 150%;
+    line-height: 2em;
+    top: 12.4em;
+    left: -10em;
+    
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+  
+}
+.appimg{
+    margin: 100px;
+    margin-right: 10px;
+}
+.apps{
+    position: relative;
+    background: #0d2c40 url(icon-star.svg) no-repeat left bottom;
+    background-size: 101%;
+    float: right;
+    color: #ffffff;
+    font-size: 150%;
+    line-height: 1.25em;
+    width: 50%;
+    height: 50.019em;
+    margin: 0 0 0 0;
+    padding: 6em 0.5em 0 0.5em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+.web{
+    font-size: 100%;
+    color: #ffffff;
+    width: 60%;
+    float: left;
+    background: #c879b2 url(icons-3-pack.svg);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 101%;
+    height: 55em;
+    margin: 0;
+    padding: 16.3em 2em 10em 2em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.game{
+    position: relative;
+    background: #0d2c40 url(icon-star.svg) no-repeat left bottom;
+    background-size: 101%;
+    float: right;
+    color: #ffffff;
+    font-size: 150%;
+    line-height: 1.25em;
+    width: 50%;
+    height: 50.019em;
+    margin: 0 0 0 0;
+    padding: 6em 0.5em 0 0.5em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 100%; 
+}
+.thank{
+
+}
